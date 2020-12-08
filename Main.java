@@ -8,6 +8,7 @@ class Main {
     {
       System.out.println("Hello student, What is your name?");
       barry[i] = scan.nextLine(); 
+      
 
 
 
